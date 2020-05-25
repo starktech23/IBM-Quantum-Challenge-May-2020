@@ -39,7 +39,8 @@ This repository is created to be a community hub of all information regarding th
 - https://medium.com/qiskit/total-immersion-33639c130351
 - https://quantumzeitgeist.com/machine-learning-for-decomposing-arbitrary-unitary-matrices-of-any-size/
 - https://www.ilb.eus/es/la-comunidad-bilbao-quantum-afronta-el-reto-de-ibm-quantum-challenge/
-- https://padraignix.github.io/quantum-computing/2020/05/09/ibm-quantum-challenge/ Source (https://github.com/padraignix/padraignix.github.io/blob/master/_posts/quantum-computing/2020-05-09-ibm-quantum-challenge.md)
+- https://padraignix.github.io/quantum-computing/2020/05/09/ibm-quantum-challenge/ 
+  - Source: (https://github.com/padraignix/padraignix.github.io/blob/master/_posts/quantum-computing/2020-05-09-ibm-quantum-challenge.md)
 
 ## Videos
 - https://www.youtube.com/watch?v=3oNXkCZ9odQ
