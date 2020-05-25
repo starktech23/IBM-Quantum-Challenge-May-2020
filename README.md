@@ -43,7 +43,7 @@ This repository is created to be a community hub of all information regarding th
 
 ## Videos
 - https://www.youtube.com/watch?v=3oNXkCZ9odQ
-- https://youtu.be/umlFmIxQk9A
+- https://www.youtube.com/watch?v=umlFmIxQk9A
 
 ## Other links
 - https://www.meetup.com/Computacion-Cuantica-en-Madrid/events/270722706/
