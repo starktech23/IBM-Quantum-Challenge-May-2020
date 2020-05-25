@@ -28,8 +28,10 @@ This repository is created to be a community hub of all information regarding th
 - https://github.com/8HoLoN/IBM-Quantum-Challenge-Exercises-Solutions
 - https://github.com/aditya-giri/quantum-challenge-2020
 - https://github.com/pratik-ingle/IBM_Global_Quantum_Challenge_2020_solution
+
 ## Articles
 
 ## Videos
+https://www.youtube.com/watch?v=3oNXkCZ9odQ
 
 ## Other links
