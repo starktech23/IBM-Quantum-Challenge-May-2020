@@ -41,11 +41,17 @@ This repository is created to be a community hub of all information regarding th
 - https://www.ilb.eus/es/la-comunidad-bilbao-quantum-afronta-el-reto-de-ibm-quantum-challenge/
 - https://padraignix.github.io/quantum-computing/2020/05/09/ibm-quantum-challenge/ 
   - Source: (https://github.com/padraignix/padraignix.github.io/blob/master/_posts/quantum-computing/2020-05-09-ibm-quantum-challenge.md)
+- https://medium.com/@asierarranz/the-art-behind-a-quantum-circuit-1fa0c530da3e
 
 ## Videos
 - https://www.youtube.com/watch?v=3oNXkCZ9odQ
+- https://www.youtube.com/watch?v=PCKTE8vfS1k
 - https://www.youtube.com/watch?v=umlFmIxQk9A
+- https://www.youtube.com/watch?v=OlKeGxXN2zM
+- https://www.youtube.com/watch?v=mMOp845hy8I
+- https://www.youtube.com/watch?v=2gYQm0nvJkM
 
 ## Other links
+- https://www.meetup.com/Computacion-Cuantica-en-Madrid/events/270358036/
 - https://www.meetup.com/Computacion-Cuantica-en-Madrid/events/270722706/
 
