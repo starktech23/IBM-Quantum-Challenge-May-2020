@@ -42,6 +42,7 @@ This repository is created to be a community hub of all information regarding th
 - https://padraignix.github.io/quantum-computing/2020/05/09/ibm-quantum-challenge/ 
   - Source: (https://github.com/padraignix/padraignix.github.io/blob/master/_posts/quantum-computing/2020-05-09-ibm-quantum-challenge.md)
 - https://medium.com/@asierarranz/the-art-behind-a-quantum-circuit-1fa0c530da3e
+- https://thequantumdaily.com/2020/05/11/going-through-the-ibm-quantum-challenge/
 
 ## Videos
 - https://www.youtube.com/watch?v=3oNXkCZ9odQ
