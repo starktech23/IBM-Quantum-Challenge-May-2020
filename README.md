@@ -34,6 +34,7 @@ This repository is created to be a community hub of all information regarding th
 - https://github.com/thetronjohnson/IBMQC-UnitaryDecompostion
 
 ## Articles
+- https://www.ibm.com/blogs/research/2020/04/ibm-quantum-challenge/
 - https://www.ibm.com/blogs/research/2020/05/quantum-challenge-results/
 - https://medium.com/@carlocascio/ibm-quantum-challenge-2020-my-approach-to-get-the-magic-46-984ee4cbd11c
 - https://medium.com/qiskit/total-immersion-33639c130351
