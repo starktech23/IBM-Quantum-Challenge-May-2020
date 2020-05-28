@@ -36,6 +36,8 @@ This repository is created to be a community hub of all information regarding th
 ## Articles
 - https://www.ibm.com/blogs/research/2020/04/ibm-quantum-challenge/
 - https://www.ibm.com/blogs/research/2020/05/quantum-challenge-results/
+- https://www.ibm.com/blogs/think/jp-ja/quantum-challenge-results/
+- https://www.ibm.com/blogs/think/es-es/2020/05/13/una-noche-cuantica/
 - https://medium.com/@carlocascio/ibm-quantum-challenge-2020-my-approach-to-get-the-magic-46-984ee4cbd11c
 - https://medium.com/qiskit/total-immersion-33639c130351
 - https://quantumzeitgeist.com/machine-learning-for-decomposing-arbitrary-unitary-matrices-of-any-size/
