@@ -32,6 +32,7 @@ This repository is created to be a community hub of all information regarding th
 - https://github.com/pratik-ingle/IBM_Global_Quantum_Challenge_2020_solution
 - https://github.com/diemilio/IBM_2020Challenge_Solutions
 - https://github.com/thetronjohnson/IBMQC-UnitaryDecompostion
+- https://github.com/jacopomaroli/IBM_may4_challenge_solution/blob/master/ex04/Challenge4_CircuitDecomposition.ipynb
 
 ## Articles
 - https://www.ibm.com/blogs/research/2020/04/ibm-quantum-challenge/
